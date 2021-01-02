@@ -4,4 +4,4 @@ function palindrome(str) {
   var reverseStr = lowRegStr.split('').reverse().join(''); 
   return reverseStr === lowRegStr;
 }
-palindrome("A man, a plan, a canal. Panama");
+
